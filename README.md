@@ -39,6 +39,9 @@ Pour réaliser :
 
 ![image](https://github.com/ehueni1982/mini-projet-k8s/assets/157939806/61442503-0974-4c59-b570-63c7768a74bd)
 
+![image](https://github.com/ehueni1982/mini-projet-k8s/assets/157939806/d7a349e7-92f7-4687-8e00-2c2a424fe4ed)
+
+
 
 
 
