@@ -43,7 +43,8 @@ Pour réaliser :
 
 ![image](https://github.com/ehueni1982/mini-projet-k8s/assets/157939806/d7a349e7-92f7-4687-8e00-2c2a424fe4ed)
 
-![image](https://github.com/ehueni1982/mini-projet-k8s/assets/157939806/0244ca97-1fc7-4464-b9e5-7b1eb66c5920)
+![image](https://github.com/ehueni1982/mini-projet-k8s/assets/157939806/90d8200a-37a5-404d-a4a7-be06ed6f9d97)
+
 
 
 
