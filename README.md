@@ -24,6 +24,8 @@ Pour réaliser :
 
   ![image](https://github.com/ehueni1982/mini-projet-k8s/assets/157939806/0de32c2d-8358-401d-9ef9-d54eb4643b52)
   ![image](https://github.com/ehueni1982/mini-projet-k8s/assets/157939806/6c763528-9ea9-4179-a5e0-6082ee054419)
+  ![image](https://github.com/ehueni1982/mini-projet-k8s/assets/157939806/c33bdfd4-b992-4c73-bc2d-c0e5d1a325cc)
+
 
 
 
