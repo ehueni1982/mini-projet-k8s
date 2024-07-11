@@ -1,4 +1,6 @@
-Mini projet Kubernetes minikube k8S
+Mini projet Kubernetes minikube k8S  ![image](https://github.com/ehueni1982/mini-projet-k8s/assets/157939806/608377bd-b970-425a-b5e5-50e73d099cfe)
+
+
 Il est question de deployer l'appli wordpress constituee de la partie front ihm un container wordpress et la partie mysql qui sera la BDD.
 le deploiement se fera : 
 deployer un Pod mysql , il sera dans un objet de type deployment avec un seul replicat, il aura un service de type clusterip en frontal pour exposer le pod mysql en interne dans K8s et ensuite coupler à tout cela un pod wordpress qui sera dans un objet de type deployement, avec un service de type nodeport qui sera le point d'entrée de notre appli vers l'exterieur
