@@ -19,4 +19,9 @@ Pour réaliser :
 - Docker-compose
 - Vagrant
 - Git
+
+  Réalisation:
+
+  ![image](https://github.com/ehueni1982/mini-projet-k8s/assets/157939806/0de32c2d-8358-401d-9ef9-d54eb4643b52)
+
   
