@@ -5,6 +5,18 @@ deployer un Pod mysql , il sera dans un objet de type deployment avec un seul re
 L'appli wordpress devra interroger l'appli mysql en passant par son service de type clusterip
 le mysql devra avoir un stockage /data/mysql, donc un volume comme dans docker  qui sera mis dans data, c'est le /var/lib/mysql qui sera stocké.
 On lui associe aussi un volume simple dans /data/wordpress(le contenu /var/www/html) du conteneur frontal
-tout ceci dans un namespace wordpress(toutes nos ressources seront dans ce namespace). celui qui vient de l'exterieur passera par le service nodeport pour avoir accès à l'apli
+tout ceci dans un namespace wordpress(toutes nos ressources seront dans ce namespace). celui qui vient de l'extérieur passera par le service nodeport pour avoir accès à l'apli
 
 ![image](https://github.com/ehueni1982/mini-projet-k8s/assets/157939806/32803b96-01a4-4bec-a46c-b552fd13de90)
+
+Pour réaliser : 
+- Cluster kubernetes
+- Vagrantfile et script d'installation
+- VirtualBox
+- Minikube
+- K8s
+- Docker
+- Docker-compose
+- Vagrant
+- Git
+  
