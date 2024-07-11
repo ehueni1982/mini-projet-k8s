@@ -21,10 +21,25 @@ Pour réaliser :
 - Git
 
   Réalisation:
+  Namespace: ![image](https://github.com/ehueni1982/mini-projet-k8s/assets/157939806/4237ce38-7382-41fe-a5d6-bfb87e7d6f63)
 
-  ![image](https://github.com/ehueni1982/mini-projet-k8s/assets/157939806/0de32c2d-8358-401d-9ef9-d54eb4643b52)
-  ![image](https://github.com/ehueni1982/mini-projet-k8s/assets/157939806/6c763528-9ea9-4179-a5e0-6082ee054419)
-  ![image](https://github.com/ehueni1982/mini-projet-k8s/assets/157939806/c33bdfd4-b992-4c73-bc2d-c0e5d1a325cc)
+  Deploy : ![image](https://github.com/ehueni1982/mini-projet-k8s/assets/157939806/3debe80c-f1a2-4dfe-ba88-c7eceb05df5d)
+
+
+  Services : ![image](https://github.com/ehueni1982/mini-projet-k8s/assets/157939806/cee33bae-ae85-4fdb-b73d-23c60959f17f)
+
+
+  Podes :![image](https://github.com/ehueni1982/mini-projet-k8s/assets/157939806/b89868f1-6ce6-45f7-8e93-c069097c81c0)
+
+
+  Secret: ![image](https://github.com/ehueni1982/mini-projet-k8s/assets/157939806/a07f219a-7fb6-4207-8435-50bc98d4e625)
+
+
+  ![image](https://github.com/ehueni1982/mini-projet-k8s/assets/157939806/7a747ecf-ac45-4a66-a683-88f92a5b9d44)
+
+![image](https://github.com/ehueni1982/mini-projet-k8s/assets/157939806/61442503-0974-4c59-b570-63c7768a74bd)
+
+
 
 
 
